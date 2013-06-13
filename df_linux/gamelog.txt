@@ -7,3 +7,8 @@ Generating world using parameter set CREATE WORLD NOW = 4233314
 *** STARTING NEW GAME ***
 ** Starting New Outpost **
 ** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+There is nothing to catch in the central swamps.
+It has started raining.
+There is nothing to catch in the western swamps.
