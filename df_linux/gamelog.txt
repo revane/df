@@ -12,3 +12,10 @@ Generating world using parameter set CREATE WORLD NOW = 4233314
 There is nothing to catch in the central swamps.
 It has started raining.
 There is nothing to catch in the western swamps.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Sigun Tulonbal, Fish Cleaner cancels Store Item in Stockpile: Job item misplaced.
+You have struck indigo tourmaline!
+Kadol Urdimrikkir has become a Miner.
+Kadol Urdimrikkir, Miner cancels Construct rock Throne: Needs non-economic hard rock.
+Kadol Urdimrikkir, Miner cancels Construct rock Table: Needs non-economic hard rock.
