@@ -8,11 +8,11 @@ circumstances, unpack a new DF on top of an older one.
 
 Change this to turn sound off.
 
-[SOUND:NO]
+[SOUND:YES]
 
 The sound volume runs from 0 (off) to 255 (full).  You can set the volume from the ESC options menu as well.
 
-[VOLUME:255]
+[VOLUME:125]
 
 Change this to skip the wonderful intro movies.
 
