@@ -51,3 +51,5 @@ Construct rock Throne (3) has been completed.
 Construct rock Cabinet (7) has been completed.
 Some migrants have arrived.
 Olin Solonmasos, Woodcutter cancels Plant Seeds: Needs plump helmet spawn.
+*** STARTING NEW GAME ***
+** Loading Fortress **
