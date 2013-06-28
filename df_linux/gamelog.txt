@@ -53,3 +53,13 @@ Some migrants have arrived.
 Olin Solonmasos, Woodcutter cancels Plant Seeds: Needs plump helmet spawn.
 *** STARTING NEW GAME ***
 ** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Olin Solonmasos, Woodcutter cancels Brew Drink: Needs distillable item.
+x2
+x3
+x4
+You have struck microcline!
+You have struck blue jade!
+Sigun Belfikod, broker cancels Construct Bed: Needs logs.
+Sigun Belfikod, broker cancels Construct Bed: Needs logs.
