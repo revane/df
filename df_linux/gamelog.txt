@@ -63,3 +63,29 @@ You have struck microcline!
 You have struck blue jade!
 Sigun Belfikod, broker cancels Construct Bed: Needs logs.
 Sigun Belfikod, broker cancels Construct Bed: Needs logs.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Construct Bed (8) has been completed.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Construct rock Throne (9) has been completed.
+Sigun Tulonbal, Fish Cleaner cancels Plant Seeds: Needs plump helmet spawn.
+Sigun Tulonbal has become a Mason.
+Id Solonsazir, Farmer cancels Plant Seeds: Needs plump helmet spawn.
+Olin Solonmasos, Woodcutter cancels Plant Seeds: Needs plump helmet spawn.
+Iton Idmor, Wax Worker cancels Store Item in Stockpile: Job item misplaced.
+Olin Solonmasos, Woodcutter cancels Plant Seeds: Needs plump helmet spawn.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Olin Solonmasos, Woodcutter cancels Plant Seeds: Needs plump helmet spawn.
+Construct rock Cabinet (8) has been completed.
+The dry season has come.
+Autumn has arrived on the calendar.
+Construct rock Door (8) has been completed.
+The weather has cleared.
+Olin Solonmasos, Woodcutter cancels Brew Drink: Needs distillable item.
+You have struck harlequin opal!
+Olin Solonmasos, Woodcutter cancels Brew Drink: Needs distillable item.
+Id Solonsazir, Farmer cancels Plant Seeds: Needs plump helmet spawn.
