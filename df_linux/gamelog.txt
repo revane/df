@@ -89,3 +89,11 @@ Olin Solonmasos, Woodcutter cancels Brew Drink: Needs distillable item.
 You have struck harlequin opal!
 Olin Solonmasos, Woodcutter cancels Brew Drink: Needs distillable item.
 Id Solonsazir, Farmer cancels Plant Seeds: Needs plump helmet spawn.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Construct rock Coffer (8) has been completed.
+Rith Okirlikot, Fish Dissector cancels Drink: Interrupted by Carp.
+Sodel Cattenikal, Gem Setter cancels Store Item in Stockpile: Job item misplaced.
+Olin Solonmasos, Woodcutter cancels Brew Drink: Needs distillable item.
+`Doba' Sigunimaz has become a Engraver.
+Olin Solonmasos, Woodcutter cancels Brew Drink: Needs distillable item.
