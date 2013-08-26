@@ -97,3 +97,11 @@ Sodel Cattenikal, Gem Setter cancels Store Item in Stockpile: Job item misplaced
 Olin Solonmasos, Woodcutter cancels Brew Drink: Needs distillable item.
 `Doba' Sigunimaz has become a Engraver.
 Olin Solonmasos, Woodcutter cancels Brew Drink: Needs distillable item.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+x2
+Olin Solonmasos, Woodcutter cancels Brew Drink: Needs distillable item.
+Domas Dakostatis has become a Carpenter.
+Make wooden Barrel (10) has been completed.
+You have struck smoky quartz!
+Atis Ikthagzasit, Woodcrafter cancels Prepare Easy Meal: Needs unrotten cookable item.
