@@ -136,3 +136,15 @@ A caravan from Kantekkud has arrived.
 Construct wooden Bin (5) has been completed.
 Merchants have arrived and are unloading their goods.
 Olin Solonmasos, Brew Master cancels Brew Drink: Needs empty food storage item.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Id Solonsazir, Farmer cancels Plant Seeds: Needs plump helmet spawn.
+Id Solonsazir, Farmer cancels Plant Seeds: Needs plump helmet spawn.
+You have struck smoky quartz!
+You have struck white chalcedony!
+Id Solonsazir has become a Planter.
+Id Solonsazir, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Winter has arrived on the calendar.
+You have struck smoky quartz!
+Sodel Cattenikal has become a Miner.
+There is nothing to catch in the central swamps.
