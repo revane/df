@@ -148,3 +148,47 @@ Winter has arrived on the calendar.
 You have struck smoky quartz!
 Sodel Cattenikal has become a Miner.
 There is nothing to catch in the central swamps.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+There is nothing to catch in the western swamps.
+The merchants from Kantekkud will be leaving soon.
+The merchants from Kantekkud have embarked on their journey.
+Id Solonsazir, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Id Solonsazir, Planter cancels Plant Seeds: Needs plump helmet spawn.
+** Loading Fortress **
+There is nothing to catch in the northwestern swamps.
+Id Solonsazir, Planter cancels Plant Seeds: Needs plump helmet spawn.
+x2
+Id Solonsazir, Planter cancels Store Item in Barrel: Drop-off inaccessible.
+x2
+Id Solonsazir, Planter cancels Store Item in Barrel: Drop-off inaccessible.
+Id Solonsazir, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Id Solonsazir, Planter cancels Plant Seeds: Needs plump helmet spawn.
+x2
+`Doba' Sigunimaz has become a Woodcutter.
+** Loading Fortress **
+Domas Dakostatis has become a Woodworker.
+Oddom Sazirurem, expedition leader cancels Give Food: No food available.
+Oddom Sazirurem, expedition leader cancels Give Food: No food available.
+Id Solonsazir, Planter cancels Store Item in Barrel: Drop-off inaccessible.
+Oddom Sazirurem, expedition leader cancels Give Food: No food available.
+Morul Tekkudnitig, Glassmaker cancels Give Food: No food available.
+Oddom Sazirurem, expedition leader cancels Give Food: No food available.
+Id Solonsazir, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Id Solonsazir, Planter cancels Plant Seeds: Needs plump helmet spawn.
+Sodel Cattenikal, Miner cancels Give Food: No food available.
+Oddom Sazirurem, expedition leader cancels Give Food: No food available.
+Zuntir Vetekzasit, Wax Worker cancels Give Food: No food available.
+Id Solonsazir, Planter cancels Store Item in Barrel: Drop-off inaccessible.
+Olin Solonmasos, Brew Master cancels Brew Drink: Needs distillable item.
+Id Solonsazir, Planter cancels Plant Seeds: Hunting vermin for food.
+`Doba' Sigunimaz, Woodcutter cancels Store Item in Barrel: Hunting vermin for food.
+Edem Umamcatten, Farmer cancels Store Item in Barrel: Interrupted by Impala.
+The Impala misses The Farmer!
+The Farmer counterstrikes!
+The Farmer punches The Impala in the upper body with his left hand, bruising the fat!
+The Impala attacks The Farmer but He jumps away!
+** Starting New Outpost **
+There is nothing to catch in the western swamps.
+It has started raining.
+The weather has cleared.
