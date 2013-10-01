@@ -195,3 +195,6 @@ The weather has cleared.
 *** STARTING NEW GAME ***
 ** Loading Fortress **
 Etur Limulotsus has become a Herbalist.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Zan Sashasrigoth, Mason cancels Construct rock Door: Needs non-economic hard rock.
