@@ -192,3 +192,6 @@ The Impala attacks The Farmer but He jumps away!
 There is nothing to catch in the western swamps.
 It has started raining.
 The weather has cleared.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Etur Limulotsus has become a Herbalist.
